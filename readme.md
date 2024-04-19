@@ -1,5 +1,5 @@
 <!-- ![Logotipo tandem](https://i.pinimg.com/originals/37/47/92/374792896d21b205174c157f5149f13c.jpg) -->
-# Tandem Notas
+# Calculadora Básica
 
 - Versión: 0.1
 - Autor: Erika
@@ -53,10 +53,7 @@ Con el nuevo repositorio realiza un git clone o en el shell.
 
 git clone https://github.com/EriCrysBel/calculadora-basica-erika.git
 ```
-Una vez descargado relaciona el repositorio y ejecutalo a través de un navegador.
-```
-https://localhost:3000/calculadora-basica-erika
-```
+Una vez descargado relaciona el nuevo  repositorio creado de GitHub y ejecutalo a través de un navegador.
 
 
 ## Instrucciones de uso
